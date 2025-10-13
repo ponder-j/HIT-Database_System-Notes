@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d3653c604dcca740",
@@ -172,10 +171,10 @@
   },
   "active": "3111f5eec44160ac",
   "lastOpenFiles": [
-    "第八章 查询处理/attachments/Pasted image 20251013105406.png",
-    "auto_commit.sh",
     "README.md",
     "第八章 查询处理/8.3 连接操作算法.md",
+    "第八章 查询处理/attachments/Pasted image 20251013105406.png",
+    "auto_commit.sh",
     "第八章 查询处理/attachments/Pasted image 20251013102655.png",
     "第八章 查询处理/attachments",
     "Pasted image 20251013102536.png",
