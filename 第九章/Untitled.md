@@ -1,0 +1,30 @@
+## 表达式结果大小的估计
+
+$n_r$ : 关系 r 的元组数
+$b_r$ : 包含 r 的元组的磁盘块数 = $\lceil \frac{n_r}{f_r} \rceil$
+$l_r$ : r 每个元组字节数
+$f_r$ : 一个磁盘块容纳元组个数
+$V(r,A)$ :  r 中属性 A 出现非重复值个数
+$\frac{n_r}{V(r,A)}$ : 属性为 A 元组个数
+
+- 当 r 中 A 属性上的取值分布是 均匀的 ，运算结果大小的估计如下：
+	- 投影 $\Pi_A(r)$
+		- 估计值为 $V(r,A)$
+	- 选择 $\sigma_{A=a}(r)=$
+		- 估计值为 
+	- 合取 $\sigma_{\theta_1 \wedge \theta_2 \wedge \cdots \wedge \theta_k}(r)$
+	- 析取 $\sigma_{\theta_1 \vee \theta_2 \vee \cdots \vee \theta_k}(r)$
+	- 取反
+	- 笛卡尔积
+	- 自然连接 r(S) 与 s(S)
+		- 若 $R\cap S$ 为空，则类似笛卡尔积的结果
+		- 若 $R\cap S$ 为 R 的码，则可知 s 的一个元组至多与 r 的一个元组相连接，因此自然连接结果的元组
+		- 若 $R\cap S$ 既不是 R 的码也不是 S 的码：$\min(n_r\times \frac{n_s}{V(s,A)},n_s\times\frac{n_r}{V(n,A)})$
+
+DBMS 使用直方图记录数据分布
+- 等宽直方图
+	- 属性值各区间的宽度相同
+	- 各区间内属性值的出现次数不同
+- 等高直方图
+	- 属性值各区间的宽度不同
+	- 各区间内属性值的出现次数基本相同
