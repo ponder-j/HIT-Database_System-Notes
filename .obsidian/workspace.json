@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第九章/Untitled.md",
+                "file": "第九章 查询优化/Untitled.md",
                 "mode": "source",
                 "source": false
               },
@@ -59,7 +59,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
@@ -175,13 +175,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
   "active": "a67c240d9c779a9b",
@@ -194,9 +194,9 @@
     "ppts",
     "新建文件夹",
     "第八章 查询处理/Untitled.md",
-    "第九章/Untitled.md",
+    "第九章 查询优化/Untitled.md",
     "第八章 查询处理/8.5 查询计划执行.md",
-    "第九章",
+    "第九章 查询优化",
     "第八章 查询处理/attachments/Pasted image 20251015083536.png",
     "第八章 查询处理/attachments/Pasted image 20251015083522.png",
     "第八章 查询处理/attachments/Pasted image 20251015083505.png",
