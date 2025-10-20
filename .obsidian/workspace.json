@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第九章 查询优化/Untitled.md",
+                "file": "第10章 事务/10.3 并发控制协议.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "10.3 并发控制协议"
             }
           }
         ],
@@ -186,6 +186,18 @@
   },
   "active": "a67c240d9c779a9b",
   "lastOpenFiles": [
+    "第10章 事务/10.2 事务的并发执行和调度.md",
+    "第10章 事务/10.3 并发控制协议.md",
+    "第10章 事务/10.1 事务概念.md",
+    "第9章 查询优化/9.5 基于复杂性估计的查询优化算法.md",
+    "第10章 事务",
+    "第9章 查询优化/9.4 启发式关系代数优化算法.md",
+    "第9章 查询优化/attachments/Pasted image 20251020101353.png",
+    "第9章 查询优化/attachments/Pasted image 20251020101335.png",
+    "第9章 查询优化/attachments",
+    "第9章 查询优化/9.3 表达式结果大小的估计.md",
+    "第9章 查询优化/9.2 关系表达式的等价转换规则.md",
+    "第9章 查询优化/9.1 问题的提出.md",
     "ppts/ppt-DBMS-实现篇-ch09.pdf",
     "ppts/ppt-DBMS-实现篇-ch08.pdf",
     "ppts/ppt-DBMS-基础篇-ch2new.pdf",
@@ -194,27 +206,22 @@
     "ppts",
     "新建文件夹",
     "第八章 查询处理/Untitled.md",
-    "第九章 查询优化/Untitled.md",
-    "第八章 查询处理/8.5 查询计划执行.md",
-    "第九章 查询优化",
-    "第八章 查询处理/attachments/Pasted image 20251015083536.png",
-    "第八章 查询处理/attachments/Pasted image 20251015083522.png",
-    "第八章 查询处理/attachments/Pasted image 20251015083505.png",
-    "第八章 查询处理/8.4 集合操作算法.md",
-    "第八章 查询处理/8.3 连接操作算法.md",
-    "第八章 查询处理/8.2 投影操作算法.md",
-    "第八章 查询处理/8.1 选择操作算法.md",
-    "第八章 查询处理/attachments/Pasted image 20251013113243.png",
-    "第八章 查询处理/attachments/Pasted image 20251013110950.png",
-    "第八章 查询处理/attachments/Pasted image 20251013110930.png",
+    "第8章 查询处理/8.5 查询计划执行.md",
+    "第9章 查询优化",
+    "第8章 查询处理/attachments/Pasted image 20251015083536.png",
+    "第8章 查询处理/attachments/Pasted image 20251015083522.png",
+    "第8章 查询处理/attachments/Pasted image 20251015083505.png",
+    "第8章 查询处理/8.4 集合操作算法.md",
+    "第8章 查询处理/8.3 连接操作算法.md",
+    "第8章 查询处理/8.2 投影操作算法.md",
+    "第8章 查询处理/8.1 选择操作算法.md",
+    "第8章 查询处理/attachments/Pasted image 20251013113243.png",
+    "第8章 查询处理/attachments/Pasted image 20251013110950.png",
+    "第8章 查询处理/attachments/Pasted image 20251013110930.png",
     "README.md",
-    "第八章 查询处理/attachments/Pasted image 20251013105406.png",
-    "auto_commit.sh",
-    "第八章 查询处理/attachments/Pasted image 20251013102655.png",
-    "第八章 查询处理/attachments",
-    "Pasted image 20251013102536.png",
+    "第8章 查询处理/attachments/Pasted image 20251013105406.png",
+    "第8章 查询处理/attachments/Pasted image 20251013102655.png",
     "未命名.md",
-    "欢迎.md",
-    "第八章 查询处理"
+    "欢迎.md"
   ]
 }
