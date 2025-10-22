@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第2章 关系数据库系统/2.2 关系模型.md",
+                "file": "第10章 事务/10.3 并发控制协议.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.2 关系模型"
+              "title": "10.3 并发控制协议"
             }
           }
         ],
@@ -186,6 +186,7 @@
   },
   "active": "a67c240d9c779a9b",
   "lastOpenFiles": [
+    "第2章 关系数据库系统/2.2 关系模型.md",
     "第2章 关系数据库系统/attachments/Pasted image 20251021100802.png",
     "第2章 关系数据库系统/attachments",
     "第2章 关系数据库系统/2.1 简介.md",
@@ -200,7 +201,6 @@
     "第3章结构化查询语言 SQL/3.1 SQL 查询语言概览.md",
     "第2章 关系数据库系统/2.3 关系运算.md",
     "第3章结构化查询语言 SQL",
-    "第2章 关系数据库系统/2.2 关系模型.md",
     "第2章 关系数据库系统",
     "第1章 数据库系统概述",
     "第10章 事务/10.3 并发控制协议.md",
@@ -230,7 +230,6 @@
     "第8章 查询处理/attachments/Pasted image 20251013110950.png",
     "第8章 查询处理/attachments/Pasted image 20251013110930.png",
     "README.md",
-    "第8章 查询处理/attachments/Pasted image 20251013105406.png",
-    "第8章 查询处理/attachments/Pasted image 20251013102655.png"
+    "第8章 查询处理/attachments/Pasted image 20251013105406.png"
   ]
 }
