@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第3章结构化查询语言 SQL/3.1 SQL 查询语言概览.md",
+                "file": "第7章 物理存储结构/7.1 数据库存储设备.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.1 SQL 查询语言概览"
+              "title": "7.1 数据库存储设备"
             }
           }
         ],
@@ -186,11 +186,27 @@
   },
   "active": "a67c240d9c779a9b",
   "lastOpenFiles": [
-    "第3章结构化查询语言 SQL/attachments/Pasted image 20251023102120.png",
+    "第7章 物理存储结构/attachments/Pasted image 20251023115445.png",
+    "第7章 物理存储结构/attachments/Pasted image 20251023115417.png",
+    "第7章 物理存储结构/attachments",
+    "第7章 物理存储结构/7.6 B 树文件索引.md",
+    "第7章 物理存储结构/7.5 B+ 树文件索引.md",
+    "第7章 物理存储结构/7.4 索引文件.md",
+    "第7章 物理存储结构/7.3 Hash 文件.md",
+    "第7章 物理存储结构/7.2 磁盘文件.md",
+    "第7章 物理存储结构/7.1 数据库存储设备.md",
     "第3章结构化查询语言 SQL/3.2 SQL 数据定义.md",
-    "第3章结构化查询语言 SQL/attachments/Pasted image 20251023102000.png",
-    "第3章结构化查询语言 SQL/attachments",
+    "第3章结构化查询语言 SQL/attachments/Pasted image 20251023115124.png",
+    "第3章结构化查询语言 SQL/attachments/Pasted image 20251023114756.png",
+    "第3章结构化查询语言 SQL/attachments/Pasted image 20251023114438.png",
+    "第3章结构化查询语言 SQL/attachments/Pasted image 20251023114342.png",
+    "第3章结构化查询语言 SQL/attachments/Pasted image 20251023114301.png",
+    "第3章结构化查询语言 SQL/attachments/Pasted image 20251023112551.png",
+    "第3章结构化查询语言 SQL/attachments/Pasted image 20251023112527.png",
+    "第3章结构化查询语言 SQL/attachments/Pasted image 20251023112319.png",
     "第3章结构化查询语言 SQL/3.1 SQL 查询语言概览.md",
+    "第3章结构化查询语言 SQL/attachments/Pasted image 20251023111107.png",
+    "第3章结构化查询语言 SQL/attachments",
     "第3章结构化查询语言 SQL/3.8 嵌入式 SQL 简介.md",
     "第3章结构化查询语言 SQL/3.7 SQL 数据库授权机制.md",
     "第3章结构化查询语言 SQL/3.6 SQL 触发器.md",
@@ -198,15 +214,6 @@
     "第3章结构化查询语言 SQL/3.4 SQL 数据库的修改.md",
     "第3章结构化查询语言 SQL/3.3 SQL 查询.md",
     "第2章 关系数据库系统/2.3 关系运算.md",
-    "第2章 关系数据库系统/attachments/Pasted image 20251022223620.png",
-    "第2章 关系数据库系统/attachments/Pasted image 20251022223529.png",
-    "第2章 关系数据库系统/attachments/Pasted image 20251022223516.png",
-    "第2章 关系数据库系统/attachments/Pasted image 20251022223255.png",
-    "第2章 关系数据库系统/attachments/Pasted image 20251022223217.png",
-    "第2章 关系数据库系统/attachments/Pasted image 20251022222947.png",
-    "第2章 关系数据库系统/attachments/Pasted image 20251022222932.png",
-    "第2章 关系数据库系统/attachments/Pasted image 20251022222339.png",
-    "第2章 关系数据库系统/attachments/Pasted image 20251022222317.png",
     "第2章 关系数据库系统/2.2 关系模型.md",
     "第10章 事务/10.3 并发控制协议.md",
     "ppts/ppt-DBMS-基础篇-ch3new.pdf",
@@ -224,13 +231,6 @@
     "第1章 数据库系统概述",
     "第9章 查询优化/9.5 基于复杂性估计的查询优化算法.md",
     "第10章 事务",
-    "第9章 查询优化/9.4 启发式关系代数优化算法.md",
-    "第9章 查询优化/attachments",
-    "第9章 查询优化/9.3 表达式结果大小的估计.md",
-    "第9章 查询优化/9.2 关系表达式的等价转换规则.md",
-    "第9章 查询优化/9.1 问题的提出.md",
-    "ppts/ppt-DBMS-实现篇-ch09.pdf",
-    "第八章 查询处理/Untitled.md",
-    "第8章 查询处理/8.5 查询计划执行.md"
+    "第9章 查询优化/attachments"
   ]
 }
