@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第7章 物理存储结构/7.2 磁盘文件.md",
+                "file": "第7章 物理存储结构/7.3 Hash 文件.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.2 磁盘文件"
+              "title": "7.3 Hash 文件"
             }
           }
         ],
@@ -186,25 +186,24 @@
   },
   "active": "a67c240d9c779a9b",
   "lastOpenFiles": [
-    "第7章 物理存储结构/attachments/Pasted image 20251025180053.png",
-    "第7章 物理存储结构/attachments/Pasted image 20251023121541.png",
+    "第7章 物理存储结构/7.2 磁盘文件.md",
+    "第7章 物理存储结构/attachments/Pasted image 20251025184158.png",
+    "第7章 物理存储结构/attachments/Pasted image 20251025184151.png",
+    "第7章 物理存储结构/attachments/Pasted image 20251025184121.png",
+    "第7章 物理存储结构/attachments/Pasted image 20251025184105.png",
+    "第7章 物理存储结构/attachments/Pasted image 20251025184026.png",
+    "第7章 物理存储结构/attachments/Pasted image 20251025184006.png",
+    "第7章 物理存储结构/attachments/Pasted image 20251025183955.png",
+    "第7章 物理存储结构/attachments/Pasted image 20251025183944.png",
+    "第7章 物理存储结构/attachments/Pasted image 20251025183924.png",
+    "第7章 物理存储结构/attachments/Pasted image 20251025183914.png",
     "第7章 物理存储结构/7.1 数据库存储设备.md",
-    "第7章 物理存储结构/attachments/Pasted image 20251023121445.png",
-    "第7章 物理存储结构/attachments/Pasted image 20251023121420.png",
-    "第7章 物理存储结构/attachments/Pasted image 20251023121332.png",
-    "第7章 物理存储结构/attachments/Pasted image 20251023120854.png",
-    "第7章 物理存储结构/attachments/Pasted image 20251023120543.png",
-    "第7章 物理存储结构/attachments/Pasted image 20251023120226.png",
-    "第7章 物理存储结构/attachments/Pasted image 20251023115445.png",
-    "第7章 物理存储结构/attachments/Pasted image 20251023115417.png",
     "第7章 物理存储结构/attachments",
     "第7章 物理存储结构/7.6 B 树文件索引.md",
     "第7章 物理存储结构/7.5 B+ 树文件索引.md",
     "第7章 物理存储结构/7.4 索引文件.md",
     "第7章 物理存储结构/7.3 Hash 文件.md",
-    "第7章 物理存储结构/7.2 磁盘文件.md",
     "第3章结构化查询语言 SQL/3.2 SQL 数据定义.md",
-    "第3章结构化查询语言 SQL/attachments/Pasted image 20251023115124.png",
     "第3章结构化查询语言 SQL/3.1 SQL 查询语言概览.md",
     "第3章结构化查询语言 SQL/attachments",
     "第3章结构化查询语言 SQL/3.8 嵌入式 SQL 简介.md",
