@@ -13,30 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第八章 查询处理/8.4 集合操作算法.md",
+                "file": "第8章 查询处理/8.3 连接操作算法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8.4 集合操作算法"
+              "title": "8.3 连接操作算法"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "afd2f152c40b010f",
+        "type": "tabs",
+        "children": [
           {
             "id": "a67c240d9c779a9b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "第7章 物理存储结构/7.3 Hash 文件.md",
-                "mode": "source",
-                "source": false
+                "file": "homework/作业-4.pdf"
               },
-              "icon": "lucide-file",
-              "title": "7.3 Hash 文件"
+              "icon": "lucide-file-text",
+              "title": "作业-4"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,6 +189,28 @@
   },
   "active": "a67c240d9c779a9b",
   "lastOpenFiles": [
+    "第8章 查询处理/8.3 连接操作算法.md",
+    "homework/作业-4解答.md",
+    "homework/作业-4.pdf",
+    "第10章 并发控制/10.1 事务概念.md",
+    "homework/db_homework_solutions.md",
+    "homework",
+    "未命名文件夹",
+    "第10章 并发控制/10.3 并发控制协议.md",
+    "第10章 并发控制/10.2 事务的并发执行和调度.md",
+    "第9章 查询优化/9.5 基于复杂性估计的查询优化算法.md",
+    "第9章 查询优化/9.4 启发式关系代数优化算法.md",
+    "第9章 查询优化/9.3 表达式结果大小的估计.md",
+    "第9章 查询优化/9.2 关系表达式的等价转换规则.md",
+    "第9章 查询优化/9.1 问题的提出.md",
+    "第8章 查询处理/8.5 查询计划执行.md",
+    "第8章 查询处理/8.4 集合操作算法.md",
+    "第8章 查询处理/8.2 投影操作算法.md",
+    "第8章 查询处理/8.1 选择操作算法.md",
+    "第8章 查询处理/attachments/Pasted image 20251025194105.png",
+    "第8章 查询处理/attachments/Pasted image 20251025194044.png",
+    "第8章 查询处理/attachments/Pasted image 20251025193840.png",
+    "第7章 物理存储结构/7.3 Hash 文件.md",
     "第7章 物理存储结构/7.2 磁盘文件.md",
     "第7章 物理存储结构/attachments/Pasted image 20251025184158.png",
     "第7章 物理存储结构/attachments/Pasted image 20251025184151.png",
@@ -194,42 +219,20 @@
     "第7章 物理存储结构/attachments/Pasted image 20251025184026.png",
     "第7章 物理存储结构/attachments/Pasted image 20251025184006.png",
     "第7章 物理存储结构/attachments/Pasted image 20251025183955.png",
-    "第7章 物理存储结构/attachments/Pasted image 20251025183944.png",
-    "第7章 物理存储结构/attachments/Pasted image 20251025183924.png",
-    "第7章 物理存储结构/attachments/Pasted image 20251025183914.png",
     "第7章 物理存储结构/7.1 数据库存储设备.md",
     "第7章 物理存储结构/attachments",
     "第7章 物理存储结构/7.6 B 树文件索引.md",
     "第7章 物理存储结构/7.5 B+ 树文件索引.md",
     "第7章 物理存储结构/7.4 索引文件.md",
-    "第7章 物理存储结构/7.3 Hash 文件.md",
     "第3章结构化查询语言 SQL/3.2 SQL 数据定义.md",
     "第3章结构化查询语言 SQL/3.1 SQL 查询语言概览.md",
     "第3章结构化查询语言 SQL/attachments",
     "第3章结构化查询语言 SQL/3.8 嵌入式 SQL 简介.md",
     "第3章结构化查询语言 SQL/3.7 SQL 数据库授权机制.md",
-    "第3章结构化查询语言 SQL/3.6 SQL 触发器.md",
-    "第3章结构化查询语言 SQL/3.5 SQL 事务.md",
-    "第3章结构化查询语言 SQL/3.4 SQL 数据库的修改.md",
-    "第3章结构化查询语言 SQL/3.3 SQL 查询.md",
-    "第2章 关系数据库系统/2.3 关系运算.md",
-    "第2章 关系数据库系统/2.2 关系模型.md",
-    "第10章 并发控制/10.3 并发控制协议.md",
     "ppts/ppt-DBMS-基础篇-ch3new.pdf",
-    "第10章 并发控制/10.1 事务概念.md",
     "第2章 关系数据库系统/attachments",
-    "第2章 关系数据库系统/2.1 简介.md",
-    "第1章 数据库系统概述/1.4 数据抽象与数据模型.md",
-    "第1章 数据库系统概述/1.3 数据库系统 DBS.md",
-    "第1章 数据库系统概述/1.2 数据库管理系统 DBMS.md",
-    "第1章 数据库系统概述/1.1 数据、数据库.md",
-    "第10章 并发控制/10.2 事务的并发执行和调度.md",
     "第7章 物理存储结构",
     "第3章结构化查询语言 SQL",
-    "第2章 关系数据库系统",
-    "第1章 数据库系统概述",
-    "第9章 查询优化/9.5 基于复杂性估计的查询优化算法.md",
-    "第10章 并发控制",
-    "第9章 查询优化/attachments"
+    "第2章 关系数据库系统"
   ]
 }
