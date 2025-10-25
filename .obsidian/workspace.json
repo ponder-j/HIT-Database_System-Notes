@@ -35,7 +35,8 @@
               "title": "作业-4解答"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "afd2f152c40b010f",
@@ -201,11 +202,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "3111f5eec44160ac",
+  "active": "a67c240d9c779a9b",
   "lastOpenFiles": [
-    "homework/作业-4.pdf",
-    "第8章 查询处理/8.3 连接操作算法.md",
     "homework/作业-4解答.md",
+    "homework/作业-4.pdf",
+    "第1章 数据库系统概述/1.1 数据、数据库.md",
+    "第1章 数据库系统概述/1.2 数据库管理系统 DBMS.md",
+    "第1章 数据库系统概述/1.3 数据库系统 DBS.md",
+    "第1章 数据库系统概述/1.4 数据抽象与数据模型.md",
+    "第2章 关系数据库系统/2.3 关系运算.md",
+    "第2章 关系数据库系统/2.2 关系模型.md",
+    "第2章 关系数据库系统/2.1 简介.md",
+    "第8章 查询处理/8.3 连接操作算法.md",
     "第10章 并发控制/10.1 事务概念.md",
     "homework/db_homework_solutions.md",
     "homework",
@@ -235,14 +243,7 @@
     "第7章 物理存储结构/attachments/Pasted image 20251025183955.png",
     "第7章 物理存储结构/7.1 数据库存储设备.md",
     "第7章 物理存储结构/attachments",
-    "第7章 物理存储结构/7.6 B 树文件索引.md",
-    "第7章 物理存储结构/7.5 B+ 树文件索引.md",
-    "第7章 物理存储结构/7.4 索引文件.md",
-    "第3章结构化查询语言 SQL/3.2 SQL 数据定义.md",
-    "第3章结构化查询语言 SQL/3.1 SQL 查询语言概览.md",
     "第3章结构化查询语言 SQL/attachments",
-    "第3章结构化查询语言 SQL/3.8 嵌入式 SQL 简介.md",
-    "第3章结构化查询语言 SQL/3.7 SQL 数据库授权机制.md",
     "ppts/ppt-DBMS-基础篇-ch3new.pdf",
     "第2章 关系数据库系统/attachments",
     "第7章 物理存储结构",
